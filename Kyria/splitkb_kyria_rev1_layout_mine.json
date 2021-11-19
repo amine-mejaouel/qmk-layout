@@ -7,7 +7,7 @@
   "layout": "LAYOUT",
   "layers": [
     [
-      "ANY(LT(3, KC_TAB))",
+      "LT(3,KC_TAB)",
       "KC_Q",
       "KC_W",
       "KC_E",
